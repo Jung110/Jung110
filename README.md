@@ -1,21 +1,23 @@
-<style>
-@font-face {
-  font-family: 'DungGeunMo';
-
+<style type='text/css'>
+  @font-face {
+  font-family: 'DungGeunMo'; 
   src: url('./font/DungGeunMo.woff') format('woff');
-
-
-
-}
-
+    }
 body {
-	font-family : DungGeunMo
+    background-color : 'white';
+	font-family : 'DungGeunMo'
 }
+span {
+    background-color : 'red';
+	font-family : 'DungGeunMo';
+    display: flex; width: 20%; height: 50px; 
+    }
 </style>
 
-<body>
 
-#	정양섭
+
+
+#	<span>정양섭</span>
 
 
 
@@ -29,4 +31,5 @@ body {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung110)](https://github.com/Jung110/github-readme-stats)
 
-</body>
+
+
