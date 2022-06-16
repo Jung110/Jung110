@@ -1,4 +1,32 @@
-# 안녕하세요!! 정양섭입니다. ^_^
+<style>
+@font-face {
+  font-family: 'DungGeunMo';
 
-- 현재는 python을 이용하는  AI 공부중입니다.
-  
+  src: url('./font/DungGeunMo.woff') format('woff');
+
+
+
+}
+
+body {
+	font-family : DungGeunMo
+}
+</style>
+
+<body>
+
+#	정양섭
+
+
+
+
+
+
+
+## 사용하는 언어 비율
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung110)](https://github.com/Jung110/github-readme-stats)
+
+</body>
