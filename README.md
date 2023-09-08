@@ -2,7 +2,10 @@
 
 # My name is Yang Seop Jung 
 
+---
 
+- Mail : my.life.for.code.py@gmail.com
+- Blog : https://mydevjourney.tistory.com/
 
 ## :computer: Tech Stack :computer:
 
